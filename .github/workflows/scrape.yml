@@ -40,8 +40,12 @@ jobs:
           git add web/src/data/notices.json
           # Check if there are changes staged
           git diff --staged --quiet || git commit -m "Update OIA notices"
-          # Fetch, Pull (rebase) latest changes before pushing
-          git fetch origin main
-          git pull origin main --rebase
-          git push
+          # Skip pull/rebase, just force push if a commit was made
+          # Check if the previous command created a commit (check HEAD vs origin/main)
+          if ! git diff --quiet HEAD origin/main -- web/src/data/notices.json; then
+            echo "Pushing updated notices.json..."
+            git push --force origin main
+          else
+            echo "No changes to notices.json to push."
+          fi
       
