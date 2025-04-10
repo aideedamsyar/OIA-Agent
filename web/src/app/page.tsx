@@ -1,8 +1,6 @@
 import data from '@/data/notices.json'; // Adjust path as needed
 import {
   Card,
-  CardContent,
-  CardDescription,
   CardFooter,
   CardHeader,
   CardTitle,
