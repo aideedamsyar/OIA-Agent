@@ -5,7 +5,9 @@ name: Scrape Hanyang OIA Notices
 on:
   workflow_dispatch: # Allow manual trigger
   schedule:
-    - cron: '0 1 * * *' # Run at 01:00 UTC every day (adjust as needed)
+    # Run at 00:00 UTC (9 AM KST) and 08:00 UTC (5 PM KST) daily
+    - cron: '0 0 * * *'
+    - cron: '0 8 * * *'
 
 # Add write permissions for contents (for pushing changes)
 permissions:
