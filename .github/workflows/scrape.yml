@@ -38,6 +38,8 @@ jobs:
           git add web/src/data/notices.json
           # Check if there are changes staged
           git diff --staged --quiet || git commit -m "Update OIA notices"
+          # Pull latest changes before pushing
+          git pull origin main --ff-only || git pull origin main --rebase # Try fast-forward first, then rebase
           git push
 
       # TODO: Add steps to commit and push notices.json if changed
