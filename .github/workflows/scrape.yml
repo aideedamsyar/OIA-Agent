@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for pull/rebase
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,8 +40,9 @@ jobs:
           git add web/src/data/notices.json
           # Check if there are changes staged
           git diff --staged --quiet || git commit -m "Update OIA notices"
-          # Pull latest changes before pushing
-          git pull origin main --ff-only || git pull origin main --rebase # Try fast-forward first, then rebase
+          # Fetch, Pull (rebase) latest changes before pushing
+          git fetch origin main
+          git pull origin main --rebase
           git push
 
       # TODO: Add steps to commit and push notices.json if changed
