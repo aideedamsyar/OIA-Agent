@@ -30,10 +30,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4
+          pip install -r requirements.txt
 
       - name: Run scraper
-        run: python scraper.py
+        run: python scraper_enhanced.py  # Use the enhanced scraper with AI analysis
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}  # Pass the API key as environment variable
 
       - name: Commit and push if changed
         run: |
@@ -41,7 +43,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add web/src/data/notices.json
           # Check if there are changes staged
-          git diff --staged --quiet || git commit -m "Update OIA notices"
+          git diff --staged --quiet || git commit -m "Update OIA notices with AI analysis"
           # Skip pull/rebase, just force push if a commit was made
           # Check if the previous command created a commit (check HEAD vs origin/main)
           if ! git diff --quiet HEAD origin/main -- web/src/data/notices.json; then
