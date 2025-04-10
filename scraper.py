@@ -11,6 +11,9 @@ KEYWORDS = ["internship", "인턴십", "채용", "취업", "모집"]
 OUTPUT_FILE = "notices.json"
 BASE_URL = "https://oia.hanyang.ac.kr"
 USER_AGENT = "HanyangOIANoticeScraper/1.0 (+https://github.com/your-repo)" # Be polite, identify your bot
+WEB_APP_DIR = "web"
+DATA_DIR = os.path.join(WEB_APP_DIR, "src", "data")
+OUTPUT_FILE_NAME = "notices.json"
 
 def fetch_notices():
     """Fetches the notice page HTML."""
@@ -77,16 +80,22 @@ def filter_notices(notices):
     return filtered
 
 def save_notices(notices):
-    """Saves the filtered notices to a JSON file."""
-    # Get the directory of the current script
+    """Saves the filtered notices to a JSON file inside the web app's data directory."""
+    # Get the directory of the current script (project root)
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    output_path = os.path.join(script_dir, OUTPUT_FILE)
-    
+    # Define the target directory path relative to the script dir
+    target_data_dir = os.path.join(script_dir, DATA_DIR)
+    # Define the full output file path
+    output_path = os.path.join(target_data_dir, OUTPUT_FILE_NAME)
+
+    # Create the target directory if it doesn't exist
+    os.makedirs(target_data_dir, exist_ok=True)
+
     output_data = {
         "last_updated": datetime.utcnow().isoformat() + "Z",
         "notices": notices
     }
-    
+
     try:
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, ensure_ascii=False, indent=4)
@@ -107,7 +116,7 @@ if __name__ == "__main__":
         filtered = filter_notices(all_notices)
         print(f"Found {len(filtered)} relevant notices.")
         
-        print(f"Saving filtered notices to {OUTPUT_FILE}...")
+        print(f"Saving filtered notices to {os.path.join(DATA_DIR, OUTPUT_FILE_NAME)}...")
         save_notices(filtered)
     else:
         print("Scraping failed.") 
