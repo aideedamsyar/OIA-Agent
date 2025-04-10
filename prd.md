@@ -86,25 +86,25 @@ This project will be implemented in the following phases:
 *   [x] Thoroughly test the scraper locally with the target URL.
 
 **Phase 2: Automation Setup**
-*   [ ] Create a GitHub Actions workflow file (`.github/workflows/scrape.yml`).
-*   [ ] Configure the workflow to run on a daily schedule (e.g., `cron: '0 0 * * *'` for midnight UTC).
-*   [ ] Add steps to check out the code, set up Python, install dependencies (`requests`, `beautifulsoup4`).
-*   [ ] Add a step to execute `scraper.py`.
-*   [ ] Add steps to commit and push the updated `notices.json` back to the repository if changes are detected.
-*   [ ] Test the workflow manually and verify scheduled runs.
+*   [x] Create a GitHub Actions workflow file (`.github/workflows/scrape.yml`).
+*   [x] Configure the workflow to run on a daily schedule (e.g., `cron: '0 0 * * *'` for midnight UTC).
+*   [x] Add steps to check out the code, set up Python, install dependencies (`requests`, `beautifulsoup4`).
+*   [x] Add a step to execute `scraper.py`.
+*   [x] Add steps to commit and push the updated `notices.json` back to the repository if changes are detected.
+*   [x] Test the workflow manually and verify scheduled runs.
 
 **Phase 3: Frontend Project Setup**
-*   [ ] Initialize a new Next.js project (using `create-next-app`).
-*   [ ] Integrate Tailwind CSS.
-*   [ ] Set up `shadcn/ui` following its documentation.
-*   [ ] Create the basic layout and page structure (e.g., `app/page.tsx`).
+*   [x] Initialize a new Next.js project (using `create-next-app`).
+*   [x] Integrate Tailwind CSS.
+*   [x] Set up `shadcn/ui` following its documentation.
+*   [x] Create the basic layout and page structure (e.g., `app/page.tsx`).
 
 **Phase 4: Frontend Notice Display**
-*   [ ] Implement logic to fetch or read the `notices.json` data within the Next.js application (Static Site Generation (SSG) preferred for performance).
-*   [ ] Design the notice display using `shadcn/ui` components (e.g., `<Card>` for each notice or a `<Table>`).
-*   [ ] Display the notice title, date, and provide a clickable link to the original notice URL.
-*   [ ] Add styling for a clean and professional appearance.
-*   [ ] Display the "Last Updated" timestamp from `notices.json`.
+*   [x] Implement logic to fetch or read the `notices.json` data within the Next.js application (Static Site Generation (SSG) preferred for performance).
+*   [x] Design the notice display using `shadcn/ui` components (e.g., `<Card>` for each notice or a `<Table>`).
+*   [x] Display the notice title, date, and provide a clickable link to the original notice URL.
+*   [x] Add styling for a clean and professional appearance.
+*   [x] Display the "Last Updated" timestamp from `notices.json`.
 
 **Phase 5: Deployment**
 *   [ ] Create a new project on Vercel (or Netlify).

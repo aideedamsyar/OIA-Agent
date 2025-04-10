@@ -44,6 +44,4 @@ jobs:
           git fetch origin main
           git pull origin main --rebase
           git push
-
-      # TODO: Add steps to commit and push notices.json if changed
       
