@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-15T01:53:47.725248Z",
+    "last_updated": "2025-04-15T08:22:42.374827Z",
     "notices": [
         {
             "title": "[모집] 유학생 취업을 위한 퍼스널컬러 프로젝트 (한국어) 4월 29일[신청마감]",
@@ -29,6 +29,14 @@
             "title": "[공지] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[채용] 乐尔幸泛通世物流(上海)有限公司-韩语专员",
+            "link": "https://oia.hanyang.ac.kr/notice/1811186",
+            "date": "2025.04.15",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -117,14 +125,6 @@
             "title": "[홍보] 서울시 지원 외국인 유학생을 위한 무료 취업 연계 과정 (~3/31 마감)",
             "link": "https://oia.hanyang.ac.kr/notice/1810851",
             "date": "2025.03.18",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[모집] 2025-1 외국인 유학생을 위한 한국에서 일자리 구하기 특강 신청 안내",
-            "link": "https://oia.hanyang.ac.kr/notice/1810815",
-            "date": "2025.03.17",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
