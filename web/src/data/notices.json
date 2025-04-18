@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-17T08:22:06.790063Z",
+    "last_updated": "2025-04-18T01:48:50.006518Z",
     "notices": [
         {
             "title": "[모집] 유학생 취업을 위한 퍼스널컬러 프로젝트 (한국어) 4월 29일[신청마감]",
@@ -29,6 +29,30 @@
             "title": "[공지] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[채용] (주)이카운트 우즈베키스탄 현지법인 직원 채용",
+            "link": "https://oia.hanyang.ac.kr/notice/1811219",
+            "date": "2025.04.18",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[인턴십] 25년도 국도화학 외국인 유학생 채용연계형 인턴십 공고",
+            "link": "https://oia.hanyang.ac.kr/notice/1811216",
+            "date": "2025.04.18",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[채용] KSM 컴포넌트 - 해외 기술 영업 담당자(기계공학/화학공학/신소재공학) 채용",
+            "link": "https://oia.hanyang.ac.kr/notice/1811215",
+            "date": "2025.04.18",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -125,14 +149,6 @@
             "title": "[인턴십] 2025년 현대자동차 재한 외국인 유학생 인턴십 모집",
             "link": "https://oia.hanyang.ac.kr/notice/1810994",
             "date": "2025.03.31",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[채용] 苏州三星电子有限公司-韩语翻译",
-            "link": "https://oia.hanyang.ac.kr/notice/1810883",
-            "date": "2025.03.18",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
