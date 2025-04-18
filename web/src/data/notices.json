@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-18T01:48:50.006518Z",
+    "last_updated": "2025-04-18T08:21:24.884746Z",
     "notices": [
         {
             "title": "[모집] 유학생 취업을 위한 퍼스널컬러 프로젝트 (한국어) 4월 29일[신청마감]",
@@ -29,6 +29,14 @@
             "title": "[공지] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[홍보] 2025년 서울글로벌센터 토픽 대비반 2기 모집",
+            "link": "https://oia.hanyang.ac.kr/notice/1811225",
+            "date": "2025.04.18",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -149,6 +157,14 @@
             "title": "[인턴십] 2025년 현대자동차 재한 외국인 유학생 인턴십 모집",
             "link": "https://oia.hanyang.ac.kr/notice/1810994",
             "date": "2025.03.31",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[채용] 正官庄六年根商业(上海)有限公司-电商营业支援",
+            "link": "https://oia.hanyang.ac.kr/notice/1810964",
+            "date": "2025.03.25",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
