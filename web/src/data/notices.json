@@ -1,22 +1,6 @@
 {
-    "last_updated": "2025-04-22T01:52:46.584396Z",
+    "last_updated": "2025-04-22T08:22:15.959966Z",
     "notices": [
-        {
-            "title": "[모집] 유학생 취업을 위한 퍼스널컬러 프로젝트 (한국어) 4월 29일[신청마감]",
-            "link": "https://oia.hanyang.ac.kr/notice/1811113",
-            "date": "2025.04.10",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[모집]중국 유학생을 위한 중국어로 논문 특강 (양적 / 질적 연구)",
-            "link": "https://oia.hanyang.ac.kr/notice/1810915",
-            "date": "2025.03.21",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
         {
             "title": "[모집] 2025-1학기 외국인 유학생 1:1 대면 취업 컨설팅",
             "link": "https://oia.hanyang.ac.kr/notice/1810742",
@@ -26,9 +10,25 @@
             "summary": null
         },
         {
-            "title": "[공지] 외국인 유학생 시간제취업 구비서류 안내",
+            "title": "외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[인턴십] LG이노텍 2025년 Global Internship - 국내대학 외국인 유학생 (~5/6(화), 23시까지)",
+            "link": "https://oia.hanyang.ac.kr/notice/1811257",
+            "date": "2025.04.22",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[채용] 斗山(上海)化工材料有限公司-销售管理(韩语)",
+            "link": "https://oia.hanyang.ac.kr/notice/1811251",
+            "date": "2025.04.22",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -114,6 +114,14 @@
             "summary": null
         },
         {
+            "title": "[모집] 유학생 취업을 위한 퍼스널컬러 프로젝트 (한국어) 4월 29일[신청마감]",
+            "link": "https://oia.hanyang.ac.kr/notice/1811113",
+            "date": "2025.04.10",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
             "title": "[인턴십] [Intern][MiriCanvas] Global Contents Marketer (japan)",
             "link": "https://oia.hanyang.ac.kr/notice/1811096",
             "date": "2025.04.09",
@@ -149,22 +157,6 @@
             "title": "[채용] SK新能源(江苏)有限公司-预算管理专员",
             "link": "https://oia.hanyang.ac.kr/notice/1811010",
             "date": "2025.04.01",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[인턴십] 2025년 현대자동차 재한 외국인 유학생 인턴십 모집",
-            "link": "https://oia.hanyang.ac.kr/notice/1810994",
-            "date": "2025.03.31",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[채용] 正官庄六年根商业(上海)有限公司-电商营业支援",
-            "link": "https://oia.hanyang.ac.kr/notice/1810964",
-            "date": "2025.03.25",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
