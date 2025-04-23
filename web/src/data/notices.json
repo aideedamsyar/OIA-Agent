@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-23T01:52:56.918913Z",
+    "last_updated": "2025-04-23T08:22:17.991238Z",
     "notices": [
         {
             "title": "[모집] 2025-1학기 외국인 유학생 1:1 대면 취업 컨설팅",
@@ -13,6 +13,14 @@
             "title": "외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[홍보] 2025 외국인 유학생 채용박람회 개최 안내",
+            "link": "https://oia.hanyang.ac.kr/notice/1811278",
+            "date": "2025.04.23",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -149,14 +157,6 @@
             "title": "[홍보] 서울시 지원 외국인 유학생을 위한 무료 취업 연계 과정 (~5/2 마감)",
             "link": "https://oia.hanyang.ac.kr/notice/1811023",
             "date": "2025.04.03",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[채용] SK新能源(江苏)有限公司-预算管理专员",
-            "link": "https://oia.hanyang.ac.kr/notice/1811010",
-            "date": "2025.04.01",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
