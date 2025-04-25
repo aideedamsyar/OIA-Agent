@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-24T08:22:35.444549Z",
+    "last_updated": "2025-04-25T01:54:10.061241Z",
     "notices": [
         {
             "title": "[모집] 2025-1학기 외국인 유학생 1:1 대면 취업 컨설팅",
@@ -13,6 +13,14 @@
             "title": "외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[모집]2025년 Study in Korea 서포터즈 모집 공고",
+            "link": "https://oia.hanyang.ac.kr/notice/1811300",
+            "date": "2025.04.25",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -141,14 +149,6 @@
             "title": "[모집] 2025학년도 1학기 TOPIK 시험 대비 특강 신청 안내(선착순 모집)",
             "link": "https://oia.hanyang.ac.kr/notice/1811070",
             "date": "2025.04.08",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[채용] 휴온스 국내 외국인 유학생 우수인재 채용",
-            "link": "https://oia.hanyang.ac.kr/notice/1811063",
-            "date": "2025.04.07",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
