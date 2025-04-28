@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-28T01:56:57.976716Z",
+    "last_updated": "2025-04-28T08:58:18.000337Z",
     "notices": [
         {
             "title": "[모집] 2025-1학기 외국인 유학생 1:1 대면 취업 컨설팅",
@@ -13,6 +13,14 @@
             "title": "외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[홍보] 중소벤처기업부 K-수출전사 아카데미 제1기 수강생 모집 안내",
+            "link": "https://oia.hanyang.ac.kr/notice/1811320",
+            "date": "2025.04.28",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -141,14 +149,6 @@
             "title": "[인턴십] [Intern][MiriCanvas] Global Contents Marketer (japan)",
             "link": "https://oia.hanyang.ac.kr/notice/1811096",
             "date": "2025.04.09",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[모집] 2025학년도 1학기 TOPIK 시험 대비 특강 신청 안내(선착순 모집)",
-            "link": "https://oia.hanyang.ac.kr/notice/1811070",
-            "date": "2025.04.08",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
