@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-28T08:58:18.000337Z",
+    "last_updated": "2025-04-29T01:54:43.797687Z",
     "notices": [
         {
             "title": "[모집] 2025-1학기 외국인 유학생 1:1 대면 취업 컨설팅",
@@ -13,6 +13,14 @@
             "title": "외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[인턴십] 2025 LG CNS Global Internship (~5/12 18:00(KST)까지)",
+            "link": "https://oia.hanyang.ac.kr/notice/1811340",
+            "date": "2025.04.29",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -141,14 +149,6 @@
             "title": "[모집] 유학생 취업을 위한 퍼스널컬러 프로젝트 (한국어) 4월 29일[신청마감]",
             "link": "https://oia.hanyang.ac.kr/notice/1811113",
             "date": "2025.04.10",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[인턴십] [Intern][MiriCanvas] Global Contents Marketer (japan)",
-            "link": "https://oia.hanyang.ac.kr/notice/1811096",
-            "date": "2025.04.09",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
