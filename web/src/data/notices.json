@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-04-30T01:54:23.812953Z",
+    "last_updated": "2025-04-30T08:23:34.097939Z",
     "notices": [
         {
             "title": "[모집] 2025-1학기 외국인 유학생 1:1 대면 취업 컨설팅",
@@ -13,6 +13,14 @@
             "title": "외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[채용] 爱思开海力士半导体(重庆)有限公司-HR教育培训专员(韩语)",
+            "link": "https://oia.hanyang.ac.kr/notice/1811349",
+            "date": "2025.04.30",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -37,24 +45,24 @@
             "title": "[홍보] 중소벤처기업부 K-수출전사 아카데미 제1기 수강생 모집 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1811320",
             "date": "2025.04.28",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
+            "passed_language_check": false,
+            "is_direct_opportunity": false,
             "summary": null
         },
         {
             "title": "[모집]2025년 Study in Korea 서포터즈 모집 공고",
             "link": "https://oia.hanyang.ac.kr/notice/1811300",
             "date": "2025.04.25",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
+            "passed_language_check": false,
+            "is_direct_opportunity": false,
             "summary": null
         },
         {
             "title": "[홍보] 2025 외국인 유학생 채용박람회 개최 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1811278",
             "date": "2025.04.23",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
+            "passed_language_check": false,
+            "is_direct_opportunity": false,
             "summary": null
         },
         {
@@ -141,14 +149,6 @@
             "title": "[모집] 2025 외국인 유학생 채용 박람회 대비 교육 프로그램 신청 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1811128",
             "date": "2025.04.11",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[채용] 科丝美诗(中国)化妆品有限公司-韩语翻译",
-            "link": "https://oia.hanyang.ac.kr/notice/1811118",
-            "date": "2025.04.10",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
