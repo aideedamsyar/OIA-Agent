@@ -1,6 +1,14 @@
 {
-    "last_updated": "2025-05-08T01:57:10.084743Z",
+    "last_updated": "2025-05-08T08:22:53.664119Z",
     "notices": [
+        {
+            "title": "[모집] 외국인 유학생 에버랜드 방문 모집 안내(선착순 70명)",
+            "link": "https://oia.hanyang.ac.kr/notice/1811431",
+            "date": "2025.05.08",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
         {
             "title": "[모집] 2025 외국인 유학생 채용 박람회 대비 교육 프로그램 신청 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1811128",
@@ -21,6 +29,22 @@
             "title": "외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[채용] 조선내화 해외영업 외국인(인도, 브라질, 러시아) 채용",
+            "link": "https://oia.hanyang.ac.kr/notice/1811423",
+            "date": "2025.05.08",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[채용] 2025 한미글로벌 상반기 외국인 신입채용",
+            "link": "https://oia.hanyang.ac.kr/notice/1811419",
+            "date": "2025.05.08",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -133,22 +157,6 @@
             "title": "[채용] KSM 컴포넌트 - 해외 기술 영업 담당자(기계공학/화학공학/신소재공학) 채용",
             "link": "https://oia.hanyang.ac.kr/notice/1811215",
             "date": "2025.04.18",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[채용] 법무법인(유한) 대륜 영미권 비서관 채용",
-            "link": "https://oia.hanyang.ac.kr/notice/1811211",
-            "date": "2025.04.17",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[모집] 2025-1 외국인 유학생 취업역량 강화 특강 신청 안내",
-            "link": "https://oia.hanyang.ac.kr/notice/1811187",
-            "date": "2025.04.16",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
