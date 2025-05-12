@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-11T08:20:22.621202Z",
+    "last_updated": "2025-05-12T08:23:53.435239Z",
     "notices": [
         {
             "title": "[모집] 외국인 유학생 에버랜드 방문 모집 안내(선착순 70명)",
@@ -29,6 +29,14 @@
             "title": "외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[용역공고] 한양대학교 외국인 유학생 인턴십 운영 수행 업체 선정 공",
+            "link": "https://oia.hanyang.ac.kr/notice/1811470",
+            "date": "2025.05.12",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -140,14 +148,6 @@
         {
             "title": "[채용] (주)이카운트 우즈베키스탄 현지법인 직원 채용",
             "link": "https://oia.hanyang.ac.kr/notice/1811219",
-            "date": "2025.04.18",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[인턴십] 25년도 국도화학 외국인 유학생 채용연계형 인턴십 공고",
-            "link": "https://oia.hanyang.ac.kr/notice/1811216",
             "date": "2025.04.18",
             "passed_language_check": true,
             "is_direct_opportunity": null,
