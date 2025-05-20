@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-19T08:25:08.325990Z",
+    "last_updated": "2025-05-20T01:58:19.634822Z",
     "notices": [
         {
             "title": "[모집] 제1기 한양대학교 외국인 유학생 인턴십 참가자 모집 공고",
@@ -26,7 +26,7 @@
             "summary": null
         },
         {
-            "title": "외국인 유학생 시간제취업 구비서류 안내",
+            "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
             "passed_language_check": true,
@@ -133,14 +133,6 @@
             "title": "[홍보] 2025 외국인 유학생 채용박람회 개최 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1811278",
             "date": "2025.04.23",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[인턴십] LG이노텍 2025년 Global Internship - 국내대학 외국인 유학생 (~5/6(화), 23시까지)",
-            "link": "https://oia.hanyang.ac.kr/notice/1811257",
-            "date": "2025.04.22",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
