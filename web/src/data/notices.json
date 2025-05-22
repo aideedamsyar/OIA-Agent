@@ -1,6 +1,14 @@
 {
-    "last_updated": "2025-05-22T01:57:23.774776Z",
+    "last_updated": "2025-05-22T08:22:50.815236Z",
     "notices": [
+        {
+            "title": "[기타/홍보]  국제입학팀 \"글로벌사랑한대\" 14기 모집",
+            "link": "https://oia.hanyang.ac.kr/notice/1811656",
+            "date": "2025.05.22",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
         {
             "title": "[취업/채용] 2025년도 상반기 외국인 유학생 기업 탐방 프로그램 모집 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1811618",
@@ -10,7 +18,7 @@
             "summary": null
         },
         {
-            "title": "[모집] 제1기 한양대학교 외국인 유학생 인턴십 참가자 모집 공고",
+            "title": "[취업/채용] 제1기 한양대학교 외국인 유학생 인턴십 참가자 모집 공고",
             "link": "https://oia.hanyang.ac.kr/notice/1811517",
             "date": "2025.05.16",
             "passed_language_check": true,
