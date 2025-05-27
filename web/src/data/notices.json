@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-26T02:01:02.268406Z",
+    "last_updated": "2025-05-27T01:56:22.865390Z",
     "notices": [
         {
             "title": "[기타/홍보]  국제입학팀 \"글로벌사랑한대\" 14기 모집",
@@ -13,14 +13,6 @@
             "title": "[취업/채용] 中国留学生全球项目实习计划招募公告",
             "link": "https://oia.hanyang.ac.kr/notice/1811631",
             "date": "2025.05.22",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[취업/채용] 2025년도 상반기 외국인 유학생 기업 탐방 프로그램 모집 안내",
-            "link": "https://oia.hanyang.ac.kr/notice/1811618",
-            "date": "2025.05.21",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -42,8 +34,24 @@
             "summary": null
         },
         {
+            "title": "[기타/홍보] 2025 믹타 청년대화(MIKTA Youth Dialogue) 참가자 모집",
+            "link": "https://oia.hanyang.ac.kr/notice/1811711",
+            "date": "2025.05.27",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
             "title": "[취업/채용] 希杰大通物流(深圳)有限公司-经营企划",
             "link": "https://oia.hanyang.ac.kr/notice/1811624",
+            "date": "2025.05.21",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[취업/채용] 2025년도 상반기 외국인 유학생 기업 탐방 프로그램 모집 안내",
+            "link": "https://oia.hanyang.ac.kr/notice/1811618",
             "date": "2025.05.21",
             "passed_language_check": true,
             "is_direct_opportunity": null,
@@ -140,14 +148,6 @@
         {
             "title": "[취업/채용] (주)농심 외국인 유학생 인턴십 모집 공고",
             "link": "https://oia.hanyang.ac.kr/notice/1811343",
-            "date": "2025.04.29",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[취업/채용] 2025 LG CNS Global Internship (~5/12 18:00(KST)까지)",
-            "link": "https://oia.hanyang.ac.kr/notice/1811340",
             "date": "2025.04.29",
             "passed_language_check": true,
             "is_direct_opportunity": null,
