@@ -1,26 +1,10 @@
 {
-    "last_updated": "2025-05-31T08:20:42.677292Z",
+    "last_updated": "2025-06-01T02:22:27.614449Z",
     "notices": [
-        {
-            "title": "[기타/홍보]  국제입학팀 [글로벌사랑한대] 14기 모집",
-            "link": "https://oia.hanyang.ac.kr/notice/1811656",
-            "date": "2025.05.22",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
         {
             "title": "[취업/채용] 中国留学生全球项目实习计划招募公告",
             "link": "https://oia.hanyang.ac.kr/notice/1811631",
             "date": "2025.05.22",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[취업/채용] 제1기 한양대학교 외국인 유학생 인턴십 참가자 모집 공고",
-            "link": "https://oia.hanyang.ac.kr/notice/1811517",
-            "date": "2025.05.16",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -37,6 +21,14 @@
             "title": "[기타/홍보] 2025 믹타 청년대화(MIKTA Youth Dialogue) 참가자 모집",
             "link": "https://oia.hanyang.ac.kr/notice/1811711",
             "date": "2025.05.27",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[기타/홍보]  국제입학팀 [글로벌사랑한대] 14기 모집",
+            "link": "https://oia.hanyang.ac.kr/notice/1811656",
+            "date": "2025.05.22",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -77,6 +69,14 @@
             "title": "[기타/홍보] 잡코리아 온라인 취업박람회",
             "link": "https://oia.hanyang.ac.kr/notice/1811588",
             "date": "2025.05.21",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[취업/채용] 제1기 한양대학교 외국인 유학생 인턴십 참가자 모집 공고",
+            "link": "https://oia.hanyang.ac.kr/notice/1811517",
+            "date": "2025.05.16",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -133,22 +133,6 @@
             "title": "[취업/채용] 우리은행 외국인 유학생 대상 인턴십 프로그램 <W.I.S.H 2기> 참여자 모집",
             "link": "https://oia.hanyang.ac.kr/notice/1811392",
             "date": "2025.05.07",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[취업/채용] 爱思开海力士半导体(重庆)有限公司-HR教育培训专员(韩语)",
-            "link": "https://oia.hanyang.ac.kr/notice/1811349",
-            "date": "2025.04.30",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[취업/채용] (주)농심 외국인 유학생 인턴십 모집 공고",
-            "link": "https://oia.hanyang.ac.kr/notice/1811343",
-            "date": "2025.04.29",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
