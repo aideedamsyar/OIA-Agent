@@ -1,10 +1,18 @@
 {
-    "last_updated": "2025-06-05T01:58:56.219320Z",
+    "last_updated": "2025-06-05T08:23:26.534535Z",
     "notices": [
         {
             "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[기타/홍보] 외국인 유학생을 위한 '30일간의 서울일주' 참가자 모집",
+            "link": "https://oia.hanyang.ac.kr/notice/1811773",
+            "date": "2025.06.05",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -132,14 +140,6 @@
         {
             "title": "[취업/채용] 三星财产保险(中国)有限公司-客户经理(韩资)",
             "link": "https://oia.hanyang.ac.kr/notice/1811404",
-            "date": "2025.05.07",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[취업/채용] 우리은행 외국인 유학생 대상 인턴십 프로그램 <W.I.S.H 2기> 참여자 모집",
-            "link": "https://oia.hanyang.ac.kr/notice/1811392",
             "date": "2025.05.07",
             "passed_language_check": true,
             "is_direct_opportunity": null,
