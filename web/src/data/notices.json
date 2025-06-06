@@ -1,10 +1,18 @@
 {
-    "last_updated": "2025-06-05T08:23:26.534535Z",
+    "last_updated": "2025-06-06T01:58:07.594074Z",
     "notices": [
         {
             "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[취업/채용] 爱尔集新能源(南京)有限公司-韩语/朝鲜语翻译",
+            "link": "https://oia.hanyang.ac.kr/notice/1811778",
+            "date": "2025.06.05",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -133,14 +141,6 @@
             "title": "[취업/채용] 2025 한미글로벌 상반기 외국인 신입채용",
             "link": "https://oia.hanyang.ac.kr/notice/1811419",
             "date": "2025.05.08",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[취업/채용] 三星财产保险(中国)有限公司-客户经理(韩资)",
-            "link": "https://oia.hanyang.ac.kr/notice/1811404",
-            "date": "2025.05.07",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
