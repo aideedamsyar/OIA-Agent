@@ -1,10 +1,18 @@
 {
-    "last_updated": "2025-06-10T02:02:00.471989Z",
+    "last_updated": "2025-06-10T08:24:08.588478Z",
     "notices": [
         {
             "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[취업/채용] 爱茉莉太平洋贸易有限公司-韩语翻译(口语+书面)",
+            "link": "https://oia.hanyang.ac.kr/notice/1811803",
+            "date": "2025.06.10",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -132,14 +140,6 @@
         {
             "title": "[취업/채용] 조선내화 해외영업 외국인(인도, 브라질, 러시아) 채용",
             "link": "https://oia.hanyang.ac.kr/notice/1811423",
-            "date": "2025.05.08",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[취업/채용] 2025 한미글로벌 상반기 외국인 신입채용",
-            "link": "https://oia.hanyang.ac.kr/notice/1811419",
             "date": "2025.05.08",
             "passed_language_check": true,
             "is_direct_opportunity": null,
