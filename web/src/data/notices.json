@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-12T01:59:37.345509Z",
+    "last_updated": "2025-06-12T08:23:39.610438Z",
     "notices": [
         {
             "title": "[행사/프로그램] 외국인 유학생 강화도 갯벌체험 모집 안내(선착순 60명)",
@@ -13,6 +13,14 @@
             "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[기타/홍보]  오뚜기 진라면 진앤지니 17기 서포터즈 모집",
+            "link": "https://oia.hanyang.ac.kr/notice/1811862",
+            "date": "2025.06.12",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -141,14 +149,6 @@
             "title": "[취업/채용] 海太半导体(无锡)有限公司-韩语翻译(应届生)",
             "link": "https://oia.hanyang.ac.kr/notice/1811480",
             "date": "2025.05.13",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[용역공고] 한양대학교 외국인 유학생 인턴십 운영 수행 업체 선정 공고",
-            "link": "https://oia.hanyang.ac.kr/notice/1811470",
-            "date": "2025.05.12",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
