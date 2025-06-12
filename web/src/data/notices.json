@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-11T08:24:30.020851Z",
+    "last_updated": "2025-06-12T01:59:37.345509Z",
     "notices": [
         {
             "title": "[행사/프로그램] 외국인 유학생 강화도 갯벌체험 모집 안내(선착순 60명)",
@@ -13,6 +13,14 @@
             "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[기타/홍보] 서울글로벌센터「비즈니스 한국어 2기」수강생 모집 (~6/19)",
+            "link": "https://oia.hanyang.ac.kr/notice/1811849",
+            "date": "2025.06.12",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -42,7 +50,7 @@
             "summary": null
         },
         {
-            "title": "[기타/홍보] 외국인 유학생을 위한 '30일간의 서울일주' 참가자 모집",
+            "title": "[기타/홍보] 외국인 유학생을 위한 '30일간의 서울일주' 참가자 모집 (~6/18)",
             "link": "https://oia.hanyang.ac.kr/notice/1811773",
             "date": "2025.06.05",
             "passed_language_check": true,
@@ -61,24 +69,24 @@
             "title": "[기타/홍보] 2025 믹타 청년대화(MIKTA Youth Dialogue) 참가자 모집",
             "link": "https://oia.hanyang.ac.kr/notice/1811711",
             "date": "2025.05.27",
-            "passed_language_check": false,
-            "is_direct_opportunity": false,
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
             "summary": null
         },
         {
             "title": "[기타/홍보]  국제입학팀 [글로벌사랑한대] 14기 모집",
             "link": "https://oia.hanyang.ac.kr/notice/1811656",
             "date": "2025.05.22",
-            "passed_language_check": false,
-            "is_direct_opportunity": false,
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
             "summary": null
         },
         {
             "title": "[취업/채용] 中国留学生全球项目实习计划招募公告",
             "link": "https://oia.hanyang.ac.kr/notice/1811631",
             "date": "2025.05.22",
-            "passed_language_check": false,
-            "is_direct_opportunity": false,
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
             "summary": null
         },
         {
@@ -141,14 +149,6 @@
             "title": "[용역공고] 한양대학교 외국인 유학생 인턴십 운영 수행 업체 선정 공고",
             "link": "https://oia.hanyang.ac.kr/notice/1811470",
             "date": "2025.05.12",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[행사/프로그램] 외국인 유학생 에버랜드 방문 모집 안내(선착순 70명)",
-            "link": "https://oia.hanyang.ac.kr/notice/1811431",
-            "date": "2025.05.08",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
