@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-06-18T02:00:32.226797Z",
+    "last_updated": "2025-06-18T08:24:05.281643Z",
     "notices": [
         {
             "title": "[행사/프로그램] 외국인 유학생 강화도 갯벌체험 모집 안내(선착순 60명)",
@@ -13,6 +13,14 @@
             "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[취업/채용] 맑은소프트 - 일본인 신입 개발자 채용",
+            "link": "https://oia.hanyang.ac.kr/notice/1811950",
+            "date": "2025.06.18",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
