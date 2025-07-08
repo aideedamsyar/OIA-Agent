@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-08T02:02:45.180278Z",
+    "last_updated": "2025-07-08T08:25:30.104271Z",
     "notices": [
         {
             "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
@@ -77,24 +77,24 @@
             "title": "[행사/프로그램] 외국인 유학생 강화도 갯벌체험 모집 안내(선착순 60명)",
             "link": "https://oia.hanyang.ac.kr/notice/1811810",
             "date": "2025.06.11",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
+            "passed_language_check": false,
+            "is_direct_opportunity": false,
             "summary": null
         },
         {
             "title": "[취업/채용] 爱茉莉太平洋贸易有限公司-韩语翻译(口语+书面)",
             "link": "https://oia.hanyang.ac.kr/notice/1811803",
             "date": "2025.06.10",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
+            "passed_language_check": false,
+            "is_direct_opportunity": false,
             "summary": null
         },
         {
             "title": "[취업/채용] 爱尔集新能源(南京)有限公司-韩语/朝鲜语翻译",
             "link": "https://oia.hanyang.ac.kr/notice/1811778",
             "date": "2025.06.05",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
+            "passed_language_check": false,
+            "is_direct_opportunity": false,
             "summary": null
         },
         {
