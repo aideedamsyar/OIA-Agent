@@ -1,10 +1,18 @@
 {
-    "last_updated": "2025-07-09T08:24:25.842627Z",
+    "last_updated": "2025-07-10T08:24:12.045030Z",
     "notices": [
         {
             "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[기타/홍보] Try Everything 2025 외국인 유학생 자원봉사 모집 (~7/10)",
+            "link": "https://oia.hanyang.ac.kr/notice/1812125",
+            "date": "2025.07.10",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -117,22 +125,6 @@
             "title": "[기타/홍보] 2025 믹타 청년대화(MIKTA Youth Dialogue) 참가자 모집",
             "link": "https://oia.hanyang.ac.kr/notice/1811711",
             "date": "2025.05.27",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[기타/홍보]  국제입학팀 [글로벌사랑한대] 14기 모집",
-            "link": "https://oia.hanyang.ac.kr/notice/1811656",
-            "date": "2025.05.22",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[취업/채용] 中国留学生全球项目实习计划招募公告",
-            "link": "https://oia.hanyang.ac.kr/notice/1811631",
-            "date": "2025.05.22",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
