@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-28T08:27:50.534925Z",
+    "last_updated": "2025-07-29T02:27:21.822244Z",
     "notices": [
         {
             "title": "[취업/채용] 2025 외국인 유학생 취업 캠프 (선착순 20명)",
@@ -29,24 +29,24 @@
             "title": "[취업/채용]SK海力士半导体（中国）有限公司-招聘公告",
             "link": "https://oia.hanyang.ac.kr/notice/1812197",
             "date": "2025.07.21",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
+            "passed_language_check": false,
+            "is_direct_opportunity": false,
             "summary": null
         },
         {
             "title": "[기타/홍보] Try Everything 2025 외국인 유학생 자원봉사 모집 (~7/10)",
             "link": "https://oia.hanyang.ac.kr/notice/1812125",
             "date": "2025.07.10",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
+            "passed_language_check": false,
+            "is_direct_opportunity": false,
             "summary": null
         },
         {
             "title": "[기타/홍보] ‘2025 나주 쪽빛 국제교류봉사단’ 유학생 참가자 모집 (~7/11)",
             "link": "https://oia.hanyang.ac.kr/notice/1812084",
             "date": "2025.07.04",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
+            "passed_language_check": false,
+            "is_direct_opportunity": false,
             "summary": null
         },
         {
