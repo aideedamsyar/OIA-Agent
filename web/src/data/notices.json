@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-05T02:20:34.198311Z",
+    "last_updated": "2025-08-05T08:26:28.424094Z",
     "notices": [
         {
             "title": "[취업/채용] 2025 외국인 유학생 취업 캠프 (선착순 20명)",
@@ -21,6 +21,22 @@
             "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[취업/채용] [서울글로벌센터] 유학생 취업 지원 '커리어업 교육' 참여자 모집",
+            "link": "https://oia.hanyang.ac.kr/notice/1812333",
+            "date": "2025.08.05",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[취업/채용] 휴온스 - 품질관리(이화학시험/원료시험/안정성)",
+            "link": "https://oia.hanyang.ac.kr/notice/1812329",
+            "date": "2025.08.05",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
@@ -116,14 +132,6 @@
         {
             "title": "[기타/홍보]  오뚜기 진라면 진앤지니 17기 서포터즈 모집",
             "link": "https://oia.hanyang.ac.kr/notice/1811862",
-            "date": "2025.06.12",
-            "passed_language_check": true,
-            "is_direct_opportunity": null,
-            "summary": null
-        },
-        {
-            "title": "[기타/홍보] 서울글로벌센터「비즈니스 한국어 2기」수강생 모집 (~6/19)",
-            "link": "https://oia.hanyang.ac.kr/notice/1811849",
             "date": "2025.06.12",
             "passed_language_check": true,
             "is_direct_opportunity": null,
