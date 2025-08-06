@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-06T02:12:33.573423Z",
+    "last_updated": "2025-08-06T08:26:42.950484Z",
     "notices": [
         {
             "title": "[취업/채용] 2025 외국인 유학생 취업 캠프 (선착순 20명)",
@@ -21,6 +21,14 @@
             "title": "[비자/체류] 외국인 유학생 시간제취업 구비서류 안내",
             "link": "https://oia.hanyang.ac.kr/notice/1798482",
             "date": "2022.08.23",
+            "passed_language_check": true,
+            "is_direct_opportunity": null,
+            "summary": null
+        },
+        {
+            "title": "[기타/홍보] AMOREPACIFIC Brand Challenge 공모전 결선 방청단 모집 (선착순)",
+            "link": "https://oia.hanyang.ac.kr/notice/1812343",
+            "date": "2025.08.06",
             "passed_language_check": true,
             "is_direct_opportunity": null,
             "summary": null
